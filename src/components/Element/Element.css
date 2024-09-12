@@ -1,0 +1,14 @@
+li{
+    list-style-type: none;
+    width: 15%;
+    margin-left:40px;
+    height: 300px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;  
+    gap:20px;
+    background-color: rgb(235, 211, 166);
+    margin-block: 10px;
+ }
